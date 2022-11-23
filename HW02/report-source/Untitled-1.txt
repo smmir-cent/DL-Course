@@ -1,0 +1,21 @@
+number of hidden layers: 1, architecture: [16] train_accuracy = 86.68, validation_accuracy = 86.25
+number of hidden layers: 1, architecture: [32] train_accuracy = 86.9, validation_accuracy = 86.11
+number of hidden layers: 1, architecture: [64] train_accuracy = 87.57, validation_accuracy = 86.02
+number of hidden layers: 1, architecture: [128] train_accuracy = 88.13, validation_accuracy = 85.99
+number of hidden layers: 1, architecture: [256] train_accuracy = 88.79, validation_accuracy = 85.82
+number of hidden layers: 2, architecture: [16, 16] train_accuracy = 86.85, validation_accuracy = 86.1
+number of hidden layers: 2, architecture: [16, 32] train_accuracy = 86.75, validation_accuracy = 86.13
+number of hidden layers: 2, architecture: [16, 64] train_accuracy = 86.94, validation_accuracy = 86.71
+number of hidden layers: 2, architecture: [16, 128] train_accuracy = 86.94, validation_accuracy = 85.73
+number of hidden layers: 2, architecture: [32, 16] train_accuracy = 87.61, validation_accuracy = 85.98
+number of hidden layers: 2, architecture: [32, 32] train_accuracy = 87.41, validation_accuracy = 86.22
+number of hidden layers: 2, architecture: [32, 64] train_accuracy = 87.25, validation_accuracy = 86.25
+number of hidden layers: 2, architecture: [32, 128] train_accuracy = 87.42, validation_accuracy = 86.25
+number of hidden layers: 2, architecture: [64, 16] train_accuracy = 88.26, validation_accuracy = 86.16
+number of hidden layers: 2, architecture: [64, 32] train_accuracy = 88.41, validation_accuracy = 86.01
+number of hidden layers: 2, architecture: [64, 64] train_accuracy = 88.76, validation_accuracy = 85.83
+number of hidden layers: 2, architecture: [64, 128] train_accuracy = 88.81, validation_accuracy = 85.91
+number of hidden layers: 2, architecture: [128, 16] train_accuracy = 89.35, validation_accuracy = 85.99
+number of hidden layers: 2, architecture: [128, 32] train_accuracy = 89.37, validation_accuracy = 85.28
+number of hidden layers: 2, architecture: [128, 64] train_accuracy = 89.62, validation_accuracy = 85.65
+number of hidden layers: 2, architecture: [128, 128] train_accuracy = 90.06, validation_accuracy = 85.27
